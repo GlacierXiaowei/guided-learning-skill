@@ -1,0 +1,42 @@
+{
+  "name": "@glacierxiaowei/guided-learning-skill",
+  "version": "1.0.0",
+  "description": "Socratic-style problem-solving guidance for AI assistants - guides students to discover solutions through questioning",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "README-zh.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "skill",
+    "ai",
+    "education",
+    "socratic",
+    "guided-learning",
+    "tutoring",
+    "math",
+    "opencode",
+    "claude-code"
+  ],
+  "author": {
+    "name": "Xiaowei Glacier",
+    "email": "glacier_xiaowei@163.com"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlacierXiaowei/guided-learning-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GlacierXiaowei/guided-learning-skill/issues"
+  },
+  "homepage": "https://github.com/GlacierXiaowei/guided-learning-skill#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
