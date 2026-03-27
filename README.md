@@ -3,7 +3,7 @@
 > **Bring Gemini-level guided learning to your AI assistant** — A Socratic-style problem-solving skill that guides students to discover solutions through questioning, dynamic scaffolding, and cognitive conflict resolution.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![npm](https://img.shields.io/npm/v/@glacier_xiaowei/guided-learning-skill.svg)](https://www.npmjs.com/package/@glacier_xiaowei/guided-learning-skill)
+[![npm](https://img.shields.io/npm/v/guided-learning-skill.svg)](https://www.npmjs.com/package/guided-learning-skill)
 [![OpenCode](https://img.shields.io/badge/OpenCode-Compatible-green.svg)]()
 
 **[中文文档](README-zh.md)** | **English**
@@ -44,10 +44,10 @@ git clone https://github.com/GlacierXiaowei/guided-learning-skill.git
 cp -r guided-learning-skill ~/.config/opencode/skills/
 ```
 
-**Method 3: npm (Coming Soon)**
+**Method 3: npm**
 
 ```bash
-npm install -g @glacier_xiaowei/guided-learning-skill
+npm install -g guided-learning-skill
 ```
 
 ### Usage

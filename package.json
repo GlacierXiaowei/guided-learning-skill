@@ -1,5 +1,5 @@
 {
-  "name": "@glacier_xiaowei/guided-learning-skill",
+  "name": "guided-learning-skill",
   "version": "1.0.0",
   "description": "Socratic-style problem-solving guidance for AI assistants - guides students to discover solutions through questioning",
   "main": "SKILL.md",
